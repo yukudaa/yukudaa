@@ -5,9 +5,5 @@
 ## Introduction :raised_hands:
 Hello, I'm a stable code-seeking developer, growing through continuous learning. 😎
 
-## :octocat: Contributions
-### Apache Tomcat
-[[PR #655]](https://github.com/apache/tomcat/pull/655) Fix a comment typo
-
  ## :muscle: 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukudaa)](https://github.com/anuraghazra/github-readme-stats)
