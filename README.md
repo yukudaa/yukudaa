@@ -62,12 +62,6 @@ Hi, I am trying to become a nice developer😎
  <!--알고리즘 -->
  <a href="https://github.com/yukudaa/Algorithm" > 
  
- ## Problem Solving :muscle: 
- </a>
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yukudaa)](https://solved.ac/yukudaa)<br/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-
 <br/><br/><br/>
   
 <!--깃허브
