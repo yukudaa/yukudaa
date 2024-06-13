@@ -37,7 +37,7 @@ Hi, I am trying to become a nice developer😎
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
    <br/>
   <!--백-->
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <br/>
   <!--언어 및 툴 -->
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
